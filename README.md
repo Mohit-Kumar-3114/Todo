@@ -1,7 +1,7 @@
-# Todo App API
+# Todo (Task Management) App 
 
 ## Overview
-This is a simple and secure Todo App API built with Node.js, Express, and MongoDB. It provides user authentication using JWT and allows users to manage their tasks efficiently.
+This is a simple and secure Todo App built with Node.js, Express, and MongoDB. It includes user authentication with JWT and allows users to efficiently manage their tasks. Additionally, I have integrated Gemini AI to generate and update tasks using AI. The AI analyzes user input to create relevant tasks and intelligently refines them for better productivity. 
 
 ---
 
